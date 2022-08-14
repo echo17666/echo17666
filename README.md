@@ -12,7 +12,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo17666)](https://github.com/echo17666/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo17666)](https://github.com/echo17666/)
 
 
 
