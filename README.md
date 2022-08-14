@@ -19,8 +19,8 @@
 
 
 
-[![echo17666's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo17666)](https://github.com/echo17666/github-readme-stats)
+[![echo17666's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo17666)](https://github.com/echo17666)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-_generated with [echo17666/snake](https://github.com/echo17666/snake)_
+_generated with [echo17666/snake](https://github.com/echo17666/echo17666/blob/master/.github/workflows/snake.yml)_
