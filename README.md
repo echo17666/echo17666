@@ -21,6 +21,5 @@
 
 [![echo17666's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo17666)](https://github.com/echo17666)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-_generated with [echo17666/snake](https://github.com/echo17666/echo17666/blob/master/.github/workflows/snake.yml)_
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=echo17666&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
