@@ -17,5 +17,5 @@
 </div>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 
