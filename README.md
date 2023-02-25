@@ -10,12 +10,13 @@
 <h1 align="center">👋Hi, I'm <a href="https://github.com/echo17666">echo17666</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ QAQ</h1>
 
-
 <div align="center">
 <img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo17666&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=fff&theme=graywhite">
 <img height="173px" src="https://github-readme-stats.vercel.app/api?username=echo17666&hide_border=true">
 </div>
 
+<div align="center">
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-
+</div>
