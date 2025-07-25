@@ -7,9 +7,18 @@
 ![avatar](zhongli.jpg) |![avatar](xinhai.jpg) | ![avatar](yanfei.jpg) | ![avatar](ying.jpg)| ![avatar](yunjin.jpg) | ![avatar](xiaogong.jpg)
 -->
 
-<h1 align="center">👋Hi, I'm <a href="https://github.com/echo17666">echo17666</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ QAQ</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/echo17666">echo17666</a>!</h1>
+<div align="center">
 
+### 🌐 Machine Learning Engineer @ [Kaito.ai](https://kaito.ai) 
+
+📚 M.Sc. in Computer Science, National University of Singapore (NUS) 
+
+🎓 B.Eng. in Software Engineering, Beihang University (BUAA)  
+
+🌍 Based in **Singapore** & **Shanghai, China**
+
+</div>
 <div align="center" style="display: flex; align-items: center;">
 <img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo17666&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=fff&theme=graywhite">
 <img height="173px" src="https://github-readme-stats-echo-a75f.vercel.app/api?username=echo17666&hide_border=true">
