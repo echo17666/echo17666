@@ -13,10 +13,14 @@
 <div align="center">
 <img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo17666&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=fff&theme=graywhite">
 <img height="173px" src="https://github-readme-stats.vercel.app/api?username=echo17666&hide_border=true">
+<img height="173px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echo17666&theme=github">
 </div>
 
 <div align="center">
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/echo17666/echo17666/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
