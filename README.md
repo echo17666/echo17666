@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/echo17666">echo17666</a>!</h1>
 <div align="center">
 
-### 🌐 Machine Learning Engineer @ [Kaito.ai](https://kaito.ai) 
+### 🌐 Machine Learning Engineer @ Kaito.ai
 
 📚 M.Sc. in Computer Science, National University of Singapore (NUS) 
 
